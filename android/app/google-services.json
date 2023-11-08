@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173146388963",
+    "project_id": "notification-wrapper-tes-a8ba0",
+    "storage_bucket": "notification-wrapper-tes-a8ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173146388963:android:6a08db45bb745adbdc88d6",
+        "android_client_info": {
+          "package_name": "com.example.notification_wrapper_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7zq306ihvbnP0db8OPmWzTzgtMCdALM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
